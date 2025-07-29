@@ -33,31 +33,31 @@ A modern React-based movie browsing app that lets users search and discover tren
 
 ## 🔧 Setup Instructions
 
-### 1. Clone the repository
+### Installation
 
-git clone https://github.com/ankit-tola/movie-app.git
-cd movie-app
-### 2. Install dependencies
-bash
-Copy
-Edit
-npm install
-### 3. Set up environment variables
-Create a .env file and add:
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/ankit-tola/movie-app.git](https://github.com/ankit-tola/movie-app.git)
+    ```
 
-env
-Copy
-Edit
--VITE_APPWRITE_PROJECT_ID=your_project_id
--VITE_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
--VITE_APPWRITE_DATABASE_ID=your_db_id
--VITE_APPWRITE_COLLECTION_ID=your_collection_id
--VITE_TMDB_API_KEY=your_tmdb_api_key
-Replace placeholders with your actual keys.
+2.  **Navigate to the project directory:**
+    ```sh
+    cd movie-app
+    ```
 
-### 4. Run the app
-bash
-Copy
-Edit
-npm run dev
-Visit http://localhost:5173 to explore the app.
+3.  **Install the dependencies:**
+    ```sh
+    npm install
+    ```
+
+4.  **Set up your environment variables:**
+    -   Create a new file named `.env` in the root of your project.
+    -   Add your TMDB API key to this file:
+        ```
+        VITE_APP_TMDB_API_KEY=your_api_key_here
+        ```
+
+5.  **Run the development server:**
+    ```sh
+    npm run dev
+    ```
