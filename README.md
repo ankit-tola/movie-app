@@ -48,11 +48,11 @@ Create a .env file and add:
 env
 Copy
 Edit
-VITE_APPWRITE_PROJECT_ID=your_project_id
-VITE_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
-VITE_APPWRITE_DATABASE_ID=your_db_id
-VITE_APPWRITE_COLLECTION_ID=your_collection_id
-VITE_TMDB_API_KEY=your_tmdb_api_key
+-VITE_APPWRITE_PROJECT_ID=your_project_id
+-VITE_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
+-VITE_APPWRITE_DATABASE_ID=your_db_id
+-VITE_APPWRITE_COLLECTION_ID=your_collection_id
+-VITE_TMDB_API_KEY=your_tmdb_api_key
 Replace placeholders with your actual keys.
 
 ### 4. Run the app
