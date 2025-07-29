@@ -26,8 +26,10 @@ A modern React-based movie browsing app that lets users search and discover tren
 ---
 
 ## 📸 Screenshots
+<img width="1541" height="1018" alt="image" src="https://github.com/user-attachments/assets/6baed58d-ffb6-4efe-9d7a-00f5abc31c74" />
 
-> Add screenshots of the app here (e.g., home page, search results, movie cards)
+<img width="1285" height="1026" alt="image" src="https://github.com/user-attachments/assets/dba0014d-d2f0-468c-8df7-781b88752cb9" />
+
 
 ---
 
